@@ -15,6 +15,7 @@ public class BoardController {
     public String list(){
 
 
+        log.info("처음 수정했어요");
 
 
         return "team/team";
