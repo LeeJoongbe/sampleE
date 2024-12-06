@@ -11,6 +11,7 @@ public class JHController {
     @GetMapping("/team/jhcon")
     public String jh(){
 
+        log.info("hi");
         return "team/jhcon";
     }
 
