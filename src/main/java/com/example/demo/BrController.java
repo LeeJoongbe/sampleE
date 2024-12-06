@@ -1,4 +1,4 @@
-package com.example;
+package com.example.demo;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
